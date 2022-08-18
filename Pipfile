@@ -4,8 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+twirp = "*"
+uvicorn = "*"
 
 [dev-packages]
+yapf = "*"
 
 [requires]
 python_version = "3.9"

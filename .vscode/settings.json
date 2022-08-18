@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+      "asgi"
+    ],
+    "python.formatting.provider": "yapf",
+    "python.formatting.yapfArgs": [
+      "--style=pep8"
+    ],
+    "editor.formatOnSave": true,
+    "[makefile]": {
+      "editor.insertSpaces": false,
+      "editor.tabSize": 2,
+    }
+}
